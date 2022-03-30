@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahgie
 - 👀 I’m interested in ...improving brand experiences with branded merchandise and creativity
-- 📫 How to reach me ... sarah@imprintengine.com
+- 📫 How to reach me ... sarah@imprintengine.com or sarahgie@github.com
 
 <!---
 sarahgie/sarahgie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
